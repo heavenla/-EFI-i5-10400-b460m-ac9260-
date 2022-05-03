@@ -1,4 +1,6 @@
 # EFI-i5 10400-b460m-ac9260
+mac-os 11.3 big sur
+opencore 版本 0.69
 自用黑苹果efi
 
 
